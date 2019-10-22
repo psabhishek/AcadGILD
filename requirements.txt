@@ -1,5 +1,5 @@
 PAM==0.4.2
-Pillow==2.9.0
+Pillow==6.2.0
 PyJWT==1.0.0
 PyYAML==3.11
 Pymacs==0.25
