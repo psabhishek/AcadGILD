@@ -87,7 +87,7 @@ traitlets==4.2.1
 tweepy==3.5.0
 ubuntuone-client-data==14.4
 unity-lens-photos==1.0
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.0.1
 virtualenv-clone==0.2.6
 virtualenvwrapper==4.7.2
